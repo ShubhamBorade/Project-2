@@ -10,7 +10,7 @@
 
 ### Technology used:
 
-    HTML and CSS
+    HTML and core CSS
 
 > Check out the sample output of the project below and also to check on web click on below link.
 
