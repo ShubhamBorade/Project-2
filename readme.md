@@ -14,7 +14,7 @@
 
 > Check out the sample output of the project below and also to check on web click on below link.
 
-- > [Click Me]()
+- > [Click Me](https://secondprojectt.netlify.app/)
 
 - > Sample output
 
