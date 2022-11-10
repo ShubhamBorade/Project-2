@@ -28,7 +28,14 @@ nav img{
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  color:rgb(251, 238, 7);
+  color:black;
+}
+img[src="./assets/white-logo.png"]:hover{
+  cursor: pointer;
+}
+.list-item:hover{
+  cursor: pointer;
+  text-decoration: underline;
 }
 .list li {
   padding: 20px 50px 0px;
@@ -37,7 +44,7 @@ ul{
   list-style-type: none;
 }
 nav img {
-  padding: 10px;
+  padding: 11px;
 }
 .button-small{
   background-color: rgb(253, 80, 108);
@@ -48,6 +55,11 @@ nav img {
   margin-right: 38px;
   margin-top: 16px;
 }
+.button-small:hover{
+  cursor: pointer;
+  background-color: #fff;
+  color: black;
+}
 /* ------------------------------ */
 /* ---------- HERO ------------ */
 /* ------------------------------ */
@@ -55,6 +67,7 @@ nav img {
   color:yellow;
   font-size:85px;
   text-align: center;
+  margin-top: 50px;
 }
 .button-large{
   margin-left: 40%;
@@ -62,8 +75,13 @@ nav img {
   color:white;
   background-color: rgb(243, 51, 134);
   border:none;
-  margin-top: 16px;
+  margin-top: 25px;
   text-align: center;
+}
+.button-large:hover{
+  cursor: pointer;
+  background-color: #fff;
+  color: black;
 }
 .bottom img{
   width: 7%;
