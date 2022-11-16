@@ -1,4 +1,4 @@
-# My Second Project
+# Food Restaurant Home Page
 
 > I have learnt basic of HTML and CSS while building this project.
 
